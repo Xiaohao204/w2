@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/qiuyahao/Desktop/2022/OK-learn/w2/w2-1/contracts/Bank.sol": {
+      "lastModificationDate": 1646357088349,
+      "contentHash": "ab23831e4266d19e0a5baf9eff273ed3",
+      "sourceName": "contracts/Bank.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Bank"
+      ]
+    }
+  }
+}
