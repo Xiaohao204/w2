@@ -1,0 +1,76 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/qiuyahao/Desktop/2022/OK-learn/w2/w2-2/contracts/Score.sol": {
+      "lastModificationDate": 1646542504541,
+      "contentHash": "f2c4ab170e7bb9a707bbae5a04200eb8",
+      "sourceName": "contracts/Score.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Score"
+      ]
+    },
+    "/Users/qiuyahao/Desktop/2022/OK-learn/w2/w2-2/contracts/Teacher.sol": {
+      "lastModificationDate": 1646542523429,
+      "contentHash": "d5dd88523eb561ce74d40c2b2b8318ad",
+      "sourceName": "contracts/Teacher.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "IScore",
+        "Teacher"
+      ]
+    }
+  }
+}
